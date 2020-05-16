@@ -16,7 +16,7 @@ const char* wifiName = "YOUR_WIFI_SSD_NAME";
 const char* wifiPass = "YOUR_WIFI_PASSWORD";
 
 //Web Server address to read/write from 
-//const char *host = "http://arduinojson.org/example.json";
+//const char *host = "http://arduinojson.org/example.json" ;
 const char *host = "http://thuraucsy.github.io/yen_zay/v1/day/today.json";
 
 const int CLK = D2; //Set the CLK pin connection to the display
